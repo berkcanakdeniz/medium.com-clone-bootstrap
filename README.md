@@ -1,3 +1,19 @@
+# Medium Clone Built with Bootstrap
+
+Welcome to my project, where I've created a clone of Medium.com using Bootstrap. This project serves to demonstrate my skills in responsive web design, and more specifically, my understanding and practical application of the Bootstrap framework.
+
+## Project Description
+
+This repository houses the code for a Medium.com clone, a project that I built from scratch using Bootstrap. Medium is an online publishing platform known for its clean design and user-friendly interface. The goal of this project was to replicate the look and feel of Medium's website while focusing on a mobile-first approach and ensuring optimal responsiveness across various device sizes.
+
+The project showcases my understanding of Bootstrap's core concepts such as its Grid System, components, and utility classes. It also demonstrates my ability to customize Bootstrap according to project requirements.
+
+While this project does not include Medium's back-end functionality, it provides a visual and interactive interface that replicates the user experience as closely as possible.
+
+Feel free to explore the code, suggest any improvements, or use it as a basis for your own projects. I appreciate any feedback or contribution!
+
+
+
 # Frontend Mentor - QR code component solution
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
