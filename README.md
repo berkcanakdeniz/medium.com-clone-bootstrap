@@ -12,12 +12,6 @@ While this project does not include Medium's back-end functionality, it provides
 
 Feel free to explore the code, suggest any improvements, or use it as a basis for your own projects. I appreciate any feedback or contribution!
 
-
-
-# Frontend Mentor - QR code component solution
-
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
-
 ## Table of contents
 
 - [Overview](#overview)
