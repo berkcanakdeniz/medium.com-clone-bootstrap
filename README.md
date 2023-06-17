@@ -42,21 +42,20 @@ Feel free to explore the code, suggest any improvements, or use it as a basis fo
 - Responsive design principles
 - Mobile-first workflow
 
-### What I learned
+## What I Learned
+
+This project has been a great opportunity for me to deepen my understanding of Bootstrap and responsive web design. Here are a few key concepts that I have learned and applied:
+
+### Bootstrap Grid System
+
+I utilized Bootstrap's powerful grid system to ensure the website is fully responsive and looks good on all device sizes. Here's a sample:
 
 ```html
-<div class="container"></div>
-```
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-md-10 mx-auto">
+      <!-- Your content goes here -->
+    </div>
+  </div>
+</div>
 
-```css
-:root {
-  --white: hsl(0, 0%, 100%);
-  --lightgray: hsl(212, 45%, 89%);
-  --grayishblue: hsl(220, 15%, 55%);
-  --darkblue: hsl(218, 44%, 22%);
-}
-
-.container .text .hero {
-  color: var(--darkblue);
-}
-```
