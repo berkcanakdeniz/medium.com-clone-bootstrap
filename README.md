@@ -36,9 +36,10 @@ Feel free to explore the code, suggest any improvements, or use it as a basis fo
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
+- Bootstrap 5
+- HTML5 Semantic Markup
+- Custom CSS properties
+- Responsive design principles
 - Mobile-first workflow
 
 ### What I learned
